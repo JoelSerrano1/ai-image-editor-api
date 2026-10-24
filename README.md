@@ -30,6 +30,3 @@ pm run dev\
 
 API at \http://localhost:8080\
 
-## License
-ISC
-
